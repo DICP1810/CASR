@@ -1,0 +1,2 @@
+findby.NewJFrame
+findby.Spectrum
